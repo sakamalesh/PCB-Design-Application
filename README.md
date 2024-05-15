@@ -27,28 +27,14 @@ Eagle
 
 
 
-
-
-
-
-
-
-
 ### Working 
-
-
-
-
 
 
 # Circuit Diagram
 ![WhatsApp Image 2024-04-25 at 14 59 20_f435c963](https://github.com/sakamalesh/PCB-Design-Application/assets/149148235/09e78325-0d79-4e03-a96b-cede7ba39c57)
 
 
-
 # Output
-
-
 
 ### Schematic diagram
 
@@ -58,7 +44,6 @@ Eagle
 ### Layout diagram
 
 ![WhatsApp Image 2024-05-13 at 10 57 39_9be6d876](https://github.com/sakamalesh/PCB-Design-Application/assets/149148235/2d3f2c2a-6116-4ac5-aa6a-fad8eaf47ade)
-
 
 # Result
 The board is designed using Eagle software.
